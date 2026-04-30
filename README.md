@@ -96,6 +96,15 @@ MINT (unbound, transferable)
 | Namespace Control | Centralized | Global public | Configurable per namespace |
 | Social Graph | Platform-specific | Limited | Cross-app, identity-based |
 
+## Documentation
+
+| Document | Description |
+|----------|-------------|
+| [ERC Draft](EIPs/erc-persistent-identity.md) | Full EIP specification |
+| [Related Standards](docs/related-standards.md) | Analysis of ERC-721, ERC-5192, ENS, ERC-6551, ERC-4337, ERC-725 |
+| [URL Forwarding](docs/url-forwarding.md) | On-chain URL records vs DNS, resolver architecture |
+| [Decentralized Resolution](docs/decentralized-resolution.md) | Why SBT names don't need centralized DNS |
+
 ## Getting Started
 
 ### Install
